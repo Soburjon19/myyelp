@@ -7,16 +7,13 @@ Welcome to my project. It is My Yelp project.
 
  - [React Js](https://reactjs.org/)
  - [AWS Amplify](https://www.youtube.com/watch?v=uRbGMZ9oPjw)
- - [AWS Amplify Fullstack Project Setup (React, Node, Lambda, REST API)](https://www.youtube.com/watch?v=T4MQrRDo20w)
+ - [AWS Amplify Fullstack Project Setup (React, Node, Lambda, REST API)](https://www.youtube.com/watch=T4MQrRDo20w)
 
 
 ## Authors
 
 Github
-- [@KhRavshanDev](https://github.com/KhRavshanDev)
-
-Gitea
-- [@xakimov_r](https://git.us.qwasar.io/xakimov_r)
+- [@Soburjon19](https://github.com/Soburjon19/)
 
 ## Deployment
 
@@ -45,7 +42,7 @@ I learned more about ReactJs and AWS from this video
 Clone the project
 
 ```bash
-  git clone https://github.com/KhRavshanDev/yelp.git
+  git clone git remote add origin https://github.com/Soburjon19/myyelp.git
 ```
 
 Go to the project directory
