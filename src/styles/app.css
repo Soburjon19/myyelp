@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(208, 213, 209);
+}
+
+.input {
+    width: 80.5%;
+}
+
+.create {
+    background-color: #F39C12;
+    text-align: center;
+    align-items: center;
+    display: grid;
+    margin-left: 50px;
+    border: 3px solid black;
+    color: white;
+    height: 160px;
+    width: 160px;
+    border-radius: 10%;
+}
+.create:hover{
+    border: 3px solid black;
+}
