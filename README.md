@@ -2,7 +2,6 @@
 
 Welcome to my project. It is My Yelp project.
 
-
 ## Acknowledgements
 
  - [React Js](https://reactjs.org/)
